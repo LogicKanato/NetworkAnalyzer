@@ -1,8 +1,6 @@
 # NetworkAnalyzer
 TCP Traffic Analysis
 
-README:
-
 1. Place cap file you want to analyze to the same folder as trace.py
 2. Run the code as follows: python3 trace.py 'file_name'
 
